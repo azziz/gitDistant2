@@ -1,8 +1,2 @@
-Class {
-
-for(i = 0; ){
-}
-
-while(){
-
-}
+// code deplacé dans toto.java
+// ne plus utiliser ce fichier svp :D
