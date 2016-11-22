@@ -7,6 +7,9 @@ Class {
 for(i = 0; ){
 }
 
-while(){
+salut Adrein voila la modif
+Class {
 
+for(i = 0; i<tesla.length){
 }
+
